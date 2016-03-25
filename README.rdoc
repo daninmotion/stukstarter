@@ -8,3 +8,5 @@
 
 *Simple form gem
 
+*Bootstrap-Wysihtml5 text editor
+

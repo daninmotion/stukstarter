@@ -13,3 +13,13 @@
  *= require_tree .
  *= require_self
  */
+
+@import "bootstrap-sprockets";
+@import "bootstrap";
+@import "font-awesome";
+@import "header";
+@import "landing";
+@import "projects";
+@import "settings";
+@import "pledges";
+@import "devise";
